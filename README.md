@@ -1,4 +1,4 @@
-Instagram Login
+Facebook Login
 
     $ git clone https://github.com/emrullah3737/FCLogin.git
     $ npm install
